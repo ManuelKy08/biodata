@@ -1,0 +1,93 @@
+[
+    {
+        "name": "John Doe",
+        "gender": "Laki-Laki",
+        "address": "Jl. Merpati No. 12, Jakarta",
+        "phone": "081234567890",
+        "social_media": "@johndoe"
+    },
+    {
+        "name": "Budi Santoso",
+        "gender": "Laki-Laki",
+        "address": "Jl. Anggrek No. 45, Bandung",
+        "phone": "082345678901",
+        "social_media": "@budisantoso"
+    },
+    {
+        "name": "Siti Aisyah",
+        "gender": "Perempuan",
+        "address": "Jl. Melati No. 8, Surabaya",
+        "phone": "081234567892",
+        "social_media": "@sitiaisyah"
+    },
+    {
+        "name": "Andi Wijaya",
+        "gender": "Laki-Laki",
+        "address": "Jl. Cempaka No. 3, Yogyakarta",
+        "phone": "083456789012",
+        "social_media": "@andiwijaya"
+    },
+    {
+        "name": "Rina Kurniasari",
+        "gender": "Perempuan",
+        "address": "Jl. Kenanga No. 22, Medan",
+        "phone": "081987654321",
+        "social_media": "@rinakurniasari"
+    },
+    {
+        "name": "Ahmad Rizal",
+        "gender": "Laki-Laki",
+        "address": "Jl. Seroja No. 30, Makassar",
+        "phone": "085678912345",
+        "social_media": "@ahmadrizal"
+    },
+    {
+        "name": "Fitriani Nur",
+        "gender": "Perempuan",
+        "address": "Jl. Pahlawan No. 10, Semarang",
+        "phone": "082198765432",
+        "social_media": "@fitrianinur"
+    },
+    {
+        "name": "Kevin Prasetyo",
+        "gender": "Laki-Laki",
+        "address": "Jl. Bougenville No. 18, Bali",
+        "phone": "087654321098",
+        "social_media": "@kevinprasety"
+    },
+    {
+        "name": "Dewi Lestari",
+        "gender": "Perempuan",
+        "address": "Jl. Sukun No. 5, Palembang",
+        "phone": "081234567893",
+        "social_media": "@dewilestari"
+    },
+    {
+        "name": "Rudi Hartono",
+        "gender": "Laki-Laki",
+        "address": "Jl. Kemuning No. 11, Batam",
+        "phone": "082345678903",
+        "social_media": "@rudihartono"
+    },
+    {
+        "name": "Nia Ramadhani",
+        "gender": "Perempuan",
+        "address": "Jl. Raya No. 27, Tangerang",
+        "phone": "085123456789",
+        "social_media": "@niaramadhani"
+    },
+    {
+        "name": "Risky",
+        "gender": "Laki-laki",
+        "address": "Purwakarta",
+        "phone": "085724729600",
+        "social_media": "risky.manuel"
+    },
+    {
+        "name": "kokok",
+        "gender": "laki-laki",
+        "address": "purwakrtaa",
+        "phone": "0857247296009",
+        "social_media": "risky.manuel2"
+    }
+]
